@@ -1,0 +1,6 @@
+let name = 'Feri'
+const hello = () => {
+    let c = 'cica';
+    console.log('hello', name)
+}
+hello();
